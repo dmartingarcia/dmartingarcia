@@ -11,11 +11,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmartingarcia&label=Guests&color=green" alt="dmartingarcia" /></p>
 
-I'm a software engineer and a DevOps attemt, biker ⛰️, drone addict 🚁, focusing on the clean code, exploring and making sense of complexity.
+I'm a software engineer and a DevOps attempt, biker ⛰️, drone addict 🚁, focusing on clean code, and recently starting on metal forgery 🔨.
 
 As curious as my cat! ^..^
 
-💬 Check out [my blog](https://dmartingarcia.es) for more! _(Still *WIP*, it resembles much more like my personal thoughts and project record)_
+- 🔭 I’m currently working on Affirm
+- 🌱 I’m currently learning NextJS and metal forgery 🔨
+- 💬 Ask me about any project I have published
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/david-martin-garcia)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I’ve always been drawn to the tech industry. I installed my first Linux distribution at the age of 14, a Suse Linux 8.1 distro, that I found in a computer magazine as a gift. I still have the user manual book 💙, and just after installation, I was locked into `vi` following something from the manual, was a tragic beginning, and that is why I still use Emacs
+
+💬 Check out [my blog](https://dmartingarcia.com) for more! _(Still *WIP*, it resembles much more like my personal thoughts and project record)_
 
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=dmartingarcia&count_private=true&show_icons=true&custom_title=My%20GitHub%20Stats&theme=ayu-mirage> </p>
 
