@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmartingarcia&label=Guests&color=green" alt="dmartingarcia" /></p>
 
-I'm a software engineer and a DevOps attempt, biker ⛰️, drone addict 🚁, focusing on clean code, and recently starting on metal forgery 🔨.
+I'm a software engineer and a DevOps attempt, biker ⛰️, drone addict 🚁, camper van user 🛻, focusing on clean code. Recently started on the metal forgery topic 🔨.
 
 As curious as my cat! ^..^
 
